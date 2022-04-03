@@ -1,6 +1,6 @@
 # Project Euler in 05ab1e
 
-##1
+## 1
 
     999Lʒ35SÖZ}O
 
