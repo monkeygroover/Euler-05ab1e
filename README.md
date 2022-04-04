@@ -19,3 +19,12 @@
 ## 3
 
     600851475143ÒZ
+
+## 4
+
+    999LnʒDRQ}θ
+
+    999L        - range 1 to 999
+        n       - square
+         ʒDRQ}  - filter when the Reverse is eQual
+              θ - last element 
