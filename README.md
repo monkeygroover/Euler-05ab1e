@@ -15,11 +15,18 @@
 ## 2
 
     4000000ÅFʒÈ}O
+    
+    4000000ÅF     - All Fibonacci numbers <= 4m
+             ʒÈ}  -  Filter even
+                O - Sum
+    
 
 ## 3
 
-    600851475143ÒZ
-
+    600851475143ÒZ 
+    
+    600851475143Ò  - prime factors of 600851475143
+                 Z - max
 ## 4
 
     999LnʒDRQ}θ
